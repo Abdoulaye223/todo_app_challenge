@@ -1,0 +1,2 @@
+D:/todo_app_challenge/android/app/.cxx/Debug/6e65l4e4/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/todo_app_challenge/android/app/.cxx/Debug/6e65l4e4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
